@@ -1,5 +1,7 @@
 # Airbnb-Seattle
 
+Medium post link - https://medium.com/@rnagara1/airbnb-seattle-insights-443bab23dc7f
+
 This code answers the key insights from the Airbnb Seattle dataset using the CRISP-DM approach.
 
 Business questions answered in this analysis:
