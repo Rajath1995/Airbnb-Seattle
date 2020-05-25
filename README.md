@@ -2,6 +2,22 @@
 
 Medium post link - https://medium.com/@rnagara1/airbnb-seattle-insights-443bab23dc7f
 
+Technical Requirements:
+
+1. Python with jupyter notebook installed.
+2. Python packages - 
+pandas
+numpy
+matplotlib
+seaborn
+sklearn.linear_model -  LinearRegression
+sklearn.ensemble - RandomForestRegressor
+sklearn.model_selection - train_test_split #split
+sklearn.metrics - r2_score, mean_squared_error #metrics
+matplotlib
+pylab - rcParams
+sklearn.preprocessing - MultiLabelBinarizer
+
 This code answers the key insights from the Airbnb Seattle dataset using the CRISP-DM approach.
 
 Business questions answered in this analysis:
